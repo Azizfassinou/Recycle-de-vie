@@ -1,0 +1,34 @@
+  
+    body {
+      font-family: 'Segoe UI', sans-serif;
+    }
+    .hero {
+      background: linear-gradient(135deg, #005aa7, #7dc242);
+      color: white;
+      padding: 80px 20px;
+    }
+    .section-title {
+      color: #005aa7;
+      margin-top: 40px;
+    }
+    .card-icon {
+      font-size: 2rem;
+      color: #005aa7;
+    }
+    footer {
+      background: #f6d300;
+      color: black;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    .logo-position{
+      text-align: center;
+      
+    }
+    
+    .small-logo {
+      width: 100px; 
+      height: auto; 
+    }
+
